@@ -1,0 +1,11 @@
+{
+  "name": "shifty",
+  "summary": "A teeny tiny tweening engine in JavaScript. That's all it does.",
+  "homepage": "https://github.com/jeremyckahn/shifty/",
+  "author": "Jeremy Kahn",
+  "version": "0.2.0",
+  "dependencies": {
+    "spade": "~> 0.1.1"
+  },
+  "directories": { "lib": "./" }
+}
